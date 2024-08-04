@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 I am Hui Liu (刘慧), an Associate Professor at the School of Statistics and Information, Shanghai University of International Business and Economics (SUIBE). In 2009, I earned my Ph.D. in Engineering with a specialization in Computer Science (Computational Linguistics) from Shanghai Jiao Tong University (上海交通大学). After graduating in 2009, I joined the predecessor of SUIBE, which was formerly known as Shanghai Institute of Foreign Trade.
 
-My academic pursuits are centered around Natural Language Processing, with a particular focus on semantic computing and knowledge graphs. Over the years, I have authored over 40 papers in esteemed journals and conferences, including IEEE Trans. Cybern. (formerly TSMCB), SIGHAN, and ECAI, etc. Moreover, I have led and successfully completed a MOE (Ministry of Education of China) Project of Humanities and Social Sciences.
+My academic pursuits are centered around Natural Language Processing, with a particular focus on semantic computing and knowledge graphs. Over the years, I have authored over 40 papers in esteemed journals and conferences, including IEEE Trans. Cybern. (formerly TSMCB), SIGHAN, IJCAI and ECAI, etc. Moreover, I have led and successfully completed a MOE (Ministry of Education of China) Project of Humanities and Social Sciences.
 
 As an educator at SUIBE, I have been teaching various courses such as C programming, Introduction to Artificial Intelligence, and Text Mining. My dedication to teaching excellence has been recognized with accolades such as the First Prize for Excellent Teaching Achievements in Shanghai (上海市教学成果奖一等奖) and the Grand Prize for Teaching Achievements at SUIBE. From 2012 to 2023, I had the privilege of serving as the Deputy Dean at my current school. I played a important role in establishing the school's first Master's programs, including the program of Mathematical Economics, the program of Management in Business Information Management and the program of Applied Statistics.
 
@@ -14,7 +14,8 @@ As an educator at SUIBE, I have been teaching various courses such as C programm
 - *2003*: Bachelor in Engineering, Department of Computer Science and Engineering, Shanghai Jiao Tong University
 
 ## Selected Publications 
-
+- Zang, J., & Liu, H*. (2024). Modeling Selective Feature Attention for Lightweight Text Matching. In IJCAI 2024.
+- Zang, J., & Liu, H*. (2024). Explanation Based Bias Decoupling Regularization for Natural Language Inference. In IJCNN 2024.
 - Zang, J., & Liu, H. (2023). Improving Text Semantic Similarity Modeling Through a 3D Siamese Network. In ECAI 2023 (pp. 2970-2977). IOS Press.
 - Zang, J., & Liu, H. (2023). How to Extract and Interact? Nested Siamese Text Matching with Interaction and Extraction. In International Conference on Artificial Neural Networks (pp. 523-535). Cham: Springer Nature Switzerland.
 - Liu, L., Wu, X., Liu, H., Cao, X., Wang, H., Zhou, H., & Xie, Q. (2020). A semi-supervised approach for extracting TCM clinical terms based on feature words. BMC Medical Informatics and Decision Making, 20(3), 1-7.
