@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am Hui Liu (刘慧), an Associate Professor at the School of Statistics and Information, Shanghai University of International Business and Economics (SUIBE). In 2009, I earned my Ph.D. in Engineering with a specialization in Computer Science (Computational Linguistics) from Shanghai Jiao Tong University (上海交通大学). After graduating in 2009, I joined the predecessor of SUIBE, which was formerly known as Shanghai Institute of Foreign Trade.
+I am Hui Liu (刘慧), an Associate Professor at the School of Statistics and Information, Shanghai University of International Business and Economics (SUIBE, 上海对外经贸大学). In 2009, I earned my Ph.D. in Engineering with a specialization in Computer Science (Computational Linguistics) from Shanghai Jiao Tong University (上海交通大学). After graduating in 2009, I joined the predecessor of SUIBE, which was formerly known as Shanghai Institute of Foreign Trade.
 
 My academic pursuits are centered around Natural Language Processing, with a particular focus on semantic computing and knowledge graphs. Over the years, I have authored over 40 papers in esteemed journals and conferences, including IEEE Trans. Cybern. (formerly TSMCB), SIGHAN, IJCAI and ECAI, etc. Moreover, I have led and successfully completed a MOE (Ministry of Education of China) Project of Humanities and Social Sciences.
 
