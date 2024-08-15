@@ -14,7 +14,7 @@ As an educator at SUIBE, I have been teaching various courses such as C programm
 - *2003*: Bachelor in Engineering, Department of Computer Science and Engineering, Shanghai Jiao Tong University
 
 ## Selected Publications 
-- Zang, J., & Liu, H*. (2024). Modeling Selective Feature Attention for Lightweight Text Matching. In IJCAI 2024.
+- Zang, J., & Liu, H*. (2024). Modeling Selective Feature Attention for Lightweight Text Matching. In Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, ĲCAI-24 (pp. 6624–6632). International Joint Conferences on Artificial Intelligence Organization.
 - Zang, J., & Liu, H*. (2024). Explanation Based Bias Decoupling Regularization for Natural Language Inference. In IJCNN 2024.
 - Zang, J., & Liu, H. (2023). Improving Text Semantic Similarity Modeling Through a 3D Siamese Network. In ECAI 2023 (pp. 2970-2977). IOS Press.
 - Zang, J., & Liu, H. (2023). How to Extract and Interact? Nested Siamese Text Matching with Interaction and Extraction. In International Conference on Artificial Neural Networks (pp. 523-535). Cham: Springer Nature Switzerland.
