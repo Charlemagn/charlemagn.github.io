@@ -3,11 +3,13 @@ layout: homepage
 ---
 
 ## About Me
-I am Hui Liu (刘慧), an Associate Professor at the School of Statistics and Information, Shanghai University of International Business and Economics (SUIBE, 上海对外经贸大学). In 2009, I earned my Ph.D. in Engineering with a specialization in Computer Science (Computational Linguistics) from Shanghai Jiao Tong University (上海交通大学). After graduating in 2009, I joined the predecessor of SUIBE, which was formerly known as Shanghai Institute of Foreign Trade.
+I am Hui Liu (刘慧), an Associate Professor at the [School of Statistics and Information](https://www.suibe.edu.cn/txxy/), [Shanghai University of International Business and Economics](www.suibe.edu.cn) (SUIBE, 上海对外经贸大学). In 2009, I earned my Ph.D. in Engineering with a specialization in Computer Science (Computational Linguistics) from Shanghai Jiao Tong University (上海交通大学). After graduating in 2009, I joined the predecessor of SUIBE, which was formerly known as Shanghai Institute of Foreign Trade.
 
 My academic pursuits are centered around Natural Language Processing, with a particular focus on semantic computing and knowledge graphs. Over the years, I have authored over 40 papers in esteemed journals and conferences, including IEEE Trans. Cybern. (formerly TSMCB), SIGHAN, IJCAI and ECAI, etc. Moreover, I have led and successfully completed a MOE (Ministry of Education of China) Project of Humanities and Social Sciences.
 
 As an educator at SUIBE, I have been teaching various courses such as C programming, Introduction to Artificial Intelligence, and Text Mining. My dedication to teaching excellence has been recognized with accolades such as the First Prize for Excellent Teaching Achievements in Shanghai (上海市教学成果奖一等奖) and the Grand Prize for Teaching Achievements at SUIBE. From 2012 to 2023, I had the privilege of serving as the Deputy Dean at my current school. I played a important role in establishing the school's first Master's programs, including the program of Mathematical Economics, the program of Management in Business Information Management and the program of Applied Statistics.
+
+[Here](https://www.suibe.edu.cn/txxy/2017/0530/c5782a45342/page.psp) you can find my profile in Chinese on the college's official website. 
 
 ## Educations
 - *2009*: Ph.D. in Engineering, Department of Computer Science and Engineering, Shanghai Jiao Tong University
