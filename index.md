@@ -16,6 +16,7 @@ As an educator at SUIBE, I have been teaching various courses such as C programm
 - *2003*: Bachelor in Engineering, Department of Computer Science and Engineering, Shanghai Jiao Tong University
 
 ## Selected Publications 
+- Nijia Mo, Jianxiang Zang, Zhan Wang and Hui Liu* (2025). DDualSE: Decoupled Dual-head Squeeze and Excitation Attention for Sequential Recommendation, WSDM 2025 (Accepted)
 - Yifan Qiang, Gaojie Sun and Hui Liu* (2024). PatentALL: Multi-label Patent Classification using Adaptive Label Learning, ICTAI 2024 (Accepted)
 - Chengcheng Hao, Hui Liu*, Wenping Shi and Shaoyun Zhang (2024). Biterm Tensor Topic Model for Short Reviews in Recommender System, ICTAI 2024 (Accepted)
 - Zang, J., & Liu, H*. (2024). Modeling Selective Feature Attention for Lightweight Text Matching. In Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, ĲCAI-24 (pp. 6624–6632). International Joint Conferences on Artificial Intelligence Organization.
