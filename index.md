@@ -9,7 +9,7 @@ My academic pursuits are centered around Natural Language Processing, with a par
 
 As an educator at SUIBE, I have been teaching various courses such as C programming, Introduction to Artificial Intelligence, and Text Mining. My dedication to teaching excellence has been recognized with accolades such as the First Prize for Excellent Teaching Achievements in Shanghai (上海市教学成果奖一等奖) and the Grand Prize for Teaching Achievements at SUIBE. From 2012 to 2023, I had the privilege of serving as the Deputy Dean at my current school. I played a important role in establishing the school's first Master's programs, including the program of Mathematical Economics, the program of Management in Business Information Management and the program of Applied Statistics.
 
-[Here](https://www.suibe.edu.cn/txxy/2017/0530/c5782a45342/page.psp) you can find my profile in Chinese on the college's official website. 
+[Here](https://www.suibe.edu.cn/tsxy/2017/0530/c5782a45342/page.psp) you can find my profile in Chinese on the college's official website. 
 
 ## Educations
 - *2009*: Ph.D. in Engineering, Department of Computer Science and Engineering, Shanghai Jiao Tong University
