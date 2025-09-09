@@ -51,10 +51,11 @@ As an educator at SUIBE, I have been teaching various courses such as C programm
 - Text Mining (Graduate Course)
   
 ## Institutional Service
-- Member, the Teaching Steering Committee of Shanghai University of International Business and Economics, 2019-
-- Member, the Faculty Development Committee of Shanghai University of International Business and Economics，2019-
 - Vice Chair, the Teaching Steering Committee of School of Statistics and Data Science，2019-
+- Member, the Teaching Steering Committee of the Master of Statistics Program of SUIBE, 2019-
 - Member, the Academic Degree Evaluation Subcommittee of School of Statistics and Data Science, 2019-
+- Member, the Teaching Steering Committee of Shanghai University of International Business and Economics, 2019-2025
+- Member, the Faculty Development Committee of Shanghai University of International Business and Economics，2019-2025
 - Deputy Dean, School of Statistics and Information (now School of Statistics and Data Science), 2012-2023
 
 ## Honors and Awards
