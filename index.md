@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 I am Hui Liu (刘慧), an Associate Professor at the [School of Statistics and Data Science](https://www.suibe.edu.cn/tsxy/)(SDS, 统计与数据科学学院), [Shanghai University of International Business and Economics](www.suibe.edu.cn) (SUIBE, 上海对外经贸大学). In 2009, I earned my Ph.D. in Engineering with a specialization in Computer Science (Computational Linguistics) from Shanghai Jiao Tong University (上海交通大学). After graduating in 2009, I joined the predecessor of SUIBE, which was formerly known as Shanghai Institute of Foreign Trade.
 
-My academic pursuits are centered around Natural Language Processing, with a particular focus on semantic computing and knowledge graphs. Over the years, I have authored over 60 papers in esteemed journals and conferences, including IEEE Trans. Cybern. (formerly TSMCB), SIGHAN, IJCAI, ECAI and WSDM, etc. Moreover, I have completed a MOE (Ministry of Education of China) Project of Humanities and Social Sciences.
+My academic pursuits are centered around Natural Language Processing, with a particular focus on semantic computing and knowledge graphs. Over the years, I have authored over 60 papers in esteemed journals and conferences, including IEEE Trans. Cybern. (formerly TSMCB), SIGHAN, ICML, IJCAI, ECAI and WSDM, etc. Moreover, I have completed a MOE (Ministry of Education of China) Project of Humanities and Social Sciences.
 
 As an educator at SUIBE, I have been teaching various courses such as C programming, Introduction to Artificial Intelligence, and Text Mining. My dedication to teaching excellence has been recognized with accolades such as the First Prize for Excellent Teaching Achievements in Shanghai (上海市教学成果奖一等奖) and the Grand Prize for Teaching Achievements at SUIBE. From 2012 to 2023, I had the privilege of serving as the Deputy Dean at my current school. I played a important role in establishing the school's first Master's programs, including the program of Mathematical Economics, the program of Management in Business Information Management and the program of Applied Statistics.
 
@@ -16,6 +16,7 @@ As an educator at SUIBE, I have been teaching various courses such as C programm
 - *2003*: Bachelor in Engineering, Department of Computer Science and Engineering, Shanghai Jiao Tong University
 
 ## Selected Publications 
+- Jianxiang Zang, Yongda Wei, Ruxue Bai, Shiyu Jiang, Nijia Mo, Binhong Li, Qiang Sun, and Hui Liu* (2026) Reward Auditor: Inference on Reward Modeling Suitability in Real-World Perturbed Scenarios. In ICML 2026 (Accepted)
 - Nijia Mo, Bo Ren, Yongda Wei, and Hui Liu* (2026). HiTower: Hierarchical Interest Modeling with Adaptive Gating for Personalized Recommendation. In IJCNN 2026 (Accepted)
 - Nijia Mo, Jianxiang Zang, Zhan Wang, and Hui Liu* (2025). DDualSE: Decoupled Dual-head Squeeze and Excitation Attention for Sequential Recommendation. In Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining (WSDM '25). Association for Computing Machinery, New York, NY, USA, pp. 300–308. https://doi.org/10.1145/3701551.3703509
 - Yifang Qiang, Gaojie Sun and Hui Liu* (2024). PatentALL: Multi-label Patent Classification using Adaptive Label Learning. In Proceedings of 2024 IEEE 36th International Conference on Tools with Artificial Intelligence (ICTAI), Herndon, VA, USA, pp. 108-115.
