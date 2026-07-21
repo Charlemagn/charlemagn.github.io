@@ -66,4 +66,5 @@ As an educator at SUIBE, I have been teaching various courses such as C programm
 - *2013* - the First Prize for Teaching Achievements in Shanghai for the project "Establishing a Global Operations Center: Practical Exploration in Cultivating Students' Adaptability to Economic Globalization" was awarded. Listed as the 7th out of 8 contributors in this project.
 - *2020* - the Grand Prize for Teaching Achievements in SUIBE for the project "An Innovative Talent Cultivation Model and Its Practice Oriented towards Enhancing Data Intelligence Processing Capabilities". Listed as the 2nd out of 8 contributors in this project.
 - *2025* - Outstanding Graduate Supervisor of SUIBE
+- *2026* - the Model Teacher Ethics Award of SUIBE
 - Annual commendation of SUIBE for 2010, 2015, 2018-2020, 2023. 
